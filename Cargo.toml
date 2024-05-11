@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-belajar-say-hello = "=0.2.0"
+belajar-say-hello = { version = "=0.3.0", features = ["all"] }
+
+[dev-dependencies]
+uuid = { version = "=1.8.0", features = ["v4"] }
