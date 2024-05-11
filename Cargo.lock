@@ -7,6 +7,8 @@ name = "belajar-rust-crate"
 version = "0.1.0"
 dependencies = [
  "belajar-say-hello",
+ "bye",
+ "hello",
  "uuid",
 ]
 
@@ -15,6 +17,10 @@ name = "belajar-say-hello"
 version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c4aa428c1501e4c337cbe6e297303ef794db3641ba4815018f43368f41cd55b8"
+
+[[package]]
+name = "bye"
+version = "0.1.0"
 
 [[package]]
 name = "cfg-if"
@@ -32,6 +38,10 @@ dependencies = [
  "libc",
  "wasi",
 ]
+
+[[package]]
+name = "hello"
+version = "0.1.0"
 
 [[package]]
 name = "libc"

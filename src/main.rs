@@ -1,6 +1,9 @@
 use belajar_say_hello::{say_hello, say_goodbye, say_hello_to_everyone, say_goodbye_to_everyone};
 
 fn main() {
+    hello::say_hello();
+    bye::say_bye();
+
     let response = say_hello("Eko");
     println!("{}", response);
 
