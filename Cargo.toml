@@ -1,0 +1,7 @@
+[package]
+name = "belajar-rust-crate"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+belajar-say-hello = "=0.1.0"
