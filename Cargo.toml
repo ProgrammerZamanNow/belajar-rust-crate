@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-belajar-say-hello = "=0.1.0"
+belajar-say-hello = "=0.2.0"

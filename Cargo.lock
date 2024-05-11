@@ -11,6 +11,6 @@ dependencies = [
 
 [[package]]
 name = "belajar-say-hello"
-version = "0.1.0"
+version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bb83910a45d0f57d4b185ca940df309c45313f59d56a787c8fa7e3c3e68f3762"
+checksum = "eb0df4dc15f2d920c005a0743f53c81d562e833e3e13696776353ce871a3c769"
